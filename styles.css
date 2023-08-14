@@ -1,0 +1,31 @@
+body{
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: lightblue;
+}
+.flag{
+  width: 300px;
+  height: 200px;
+  position: relative;
+}
+.saffron{
+  background-color: #FF9933;
+  height: 33.33%;
+}
+.white{
+  background-color: white;
+  height: 33.33%;
+}
+.green{
+  background-color: #138808;
+  height: 33.33%;
+}
+.ashok_chakra{
+  height: 60px;
+  width: 60px;
+  margin-left: 120px;
+  margin-top: 4px;
+}
